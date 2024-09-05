@@ -1,4 +1,4 @@
-<p align="center">
+el<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7ED8F&center=true&multiline=true&repeat=false&width=460&lines=%C3%9Cber+mich+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
   </a>
@@ -29,7 +29,7 @@
 
 
 - [LinkedIn](https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/?trk=public-profile-join-page)
-- [E-Mail](mailto:volkan@example.com)
+- [E-Mail](mailto:yuecel.volkan@gmx.de)
 
 ---
 
