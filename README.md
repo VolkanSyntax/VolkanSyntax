@@ -26,9 +26,11 @@
 - **Swift/SwiftUI**: iOS-Apps Entwicklung
 - **Figma**: UI/UX Design-Prototyping und Layout
 
+#
 
+### Kontakte 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/)
 
 
 [![E-Mail](https://img.shields.io/badge/_Email_-FFD700?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:yuecel.volkan.de@gmail.com)
