@@ -28,7 +28,7 @@
 
 
 
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/?trk=public-profile-join-page)
 - [E-Mail](mailto:volkan@example.com)
 
 ---
