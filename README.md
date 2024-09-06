@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/VolkanSyntax/grundlagen--Abschluss-rpg-VolkanSyntax">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolkanSyntax&repo=grundlagen--Abschluss-rpg-VolkanSyntax&bg_color=0d1117&title_color=F7ED8F&text_color=ffffff&border_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolkanSyntax&repo=RPG-Modul-2-Abschlussprojekt&bg_color=0d1117&title_color=F7ED8F&text_color=ffffff&border_color=0d1117" />
     </td>
 </table>
 
