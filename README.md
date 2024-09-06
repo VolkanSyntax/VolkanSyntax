@@ -38,5 +38,5 @@
 
 ---
 
-„Code ist wie Kunst – es sollte sowohl funktional als auch ästhetisch ansprechend sein.“
+„Apps sind Werkzeuge, die unsere Vorstellungskraft in die Realität umsetzen.“
 
