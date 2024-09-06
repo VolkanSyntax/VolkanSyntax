@@ -1,11 +1,18 @@
 <p align="center">
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=45&pause=1000&color=F7ED8F&center=true&multiline=true&repeat=false&width=460&lines=%C3%9Cber+mich+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">   
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/) [![E-Mail](https://img.shields.io/badge/_Email_-FFD700?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:yuecel.volkan.de@gmail.com)
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=45&pause=1000&color=F7ED8F&center=true&multiline=true&repeat=false&width=460&lines=%C3%9Cber+mich+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/volkan-y%C3%BCcel-0377a22b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yuecel.volkan.de@gmail.com">
+    <img src="https://img.shields.io/badge/_Email_-FFD700?style=for-the-badge&logo=gmail&logoColor=blue" alt="Email">
+  </a>
+</p>
+
 
 #
 
