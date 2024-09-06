@@ -1,4 +1,4 @@
-## 📂 My Projects
+## 📂 Meine Projekte
 
 <table>
   <tr>
