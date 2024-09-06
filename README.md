@@ -16,7 +16,7 @@
 
 #
 
-##### Hallo! Ich bin Volkan Yücel, ein Junior Mobile Developer mit Leidenschaft für sauberen Code und funktionelles Design. Ich stehe am Anfang meiner Reise in der Android- und iOS-App-Entwicklung und arbeite ständig daran, mich in diesem Bereich weiterzuentwickeln. Außerdem habe ich UI/UX-Design gelernt und entwickle mich auch auf diesem Gebiet weiter. Ich habe vor Kurzem das Weiterbildung-Programm am Snytax Institut abgeschlossen und arbeite weiterhin daran, meine Kenntnisse und Fähigkeiten auszubauen. 🌟
+#### Hallo! Ich bin Volkan Yücel, ein Junior Mobile Developer mit Leidenschaft für sauberen Code und funktionelles Design. Ich stehe am Anfang meiner Reise in der Android- und iOS-App-Entwicklung und arbeite ständig daran, mich in diesem Bereich weiterzuentwickeln. Außerdem habe ich UI/UX-Design gelernt und entwickle mich auch auf diesem Gebiet weiter. Ich habe vor Kurzem das Weiterbildung-Programm am Snytax Institut abgeschlossen und arbeite weiterhin daran, meine Kenntnisse und Fähigkeiten auszubauen. 🌟
 
 #
 
