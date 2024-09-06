@@ -1,4 +1,4 @@
-## 📂 Meine Projekte
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7ED8F&repeat=false&width=460&lines=%F0%9F%93%82+Meine+Projekte)](https://git.io/typing-svg)
 
 <table>
   <tr>
