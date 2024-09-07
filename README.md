@@ -4,7 +4,7 @@
   <tr>
     <td style="vertical-align: top; height: 200px; padding: 10px;">
       <a href="https://github.com/VolkanSyntax/RPG-Modul-2-Abschlussprojekt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolkanSyntax&repo=RPG-Modul-2-Abschlussprojekt&bg_color=0d1117&title_color=A97BFF&text_color=ffffff&border_color=0d1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VolkanSyntax&repo=Role-Playing-Game-Modul-2-Abschlussprojekt&bg_color=0d1117&title_color=A97BFF&text_color=ffffff&border_color=0d1117" />
       </a>
     </td>
     <td style="vertical-align: top; height: 200px; padding: 10px;">
